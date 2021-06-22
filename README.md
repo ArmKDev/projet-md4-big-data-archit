@@ -1,18 +1,1 @@
-Projet Big Data Architecture - GROUPE 2
-
-NOM DES MEMBRES DU GROUPE :
-
-KOUYATE ARMAND 
- 
-JORDAN MEKKI 
-
-ADRIEN DEMAEGDT 
-
-KONE SALIMATA
-
-AFEF ZRIBI 
-
-AOUS BELKACEM 
-
-CHRISTOPHE ANTOUN
-
+Tous les projets dévloppés dans ce dossier sont des projets personnels dans le domaine de la Data Sciences et de l'IA.
